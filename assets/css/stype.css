@@ -158,7 +158,8 @@ button {
 }
 
 #header .menu-icon,
-#header .search-icon {
+#header .search-icon {  
+    display:block
     line-height:46px;
     color: #fff;
     font-size:20px;
@@ -514,3 +515,4 @@ button {
 #footer .footer-list a:hover {
     opacity: 0.5;
 }
+
