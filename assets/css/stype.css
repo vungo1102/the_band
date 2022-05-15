@@ -159,7 +159,7 @@ button {
 
 #header .menu-icon,
 #header .search-icon {  
-    display:block
+    display:block;
     line-height: 46px;
     color: #fff;
     font-size:20px;
