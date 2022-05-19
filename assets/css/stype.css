@@ -152,6 +152,7 @@ button {
 }
 #header .mobile-menu-btn,
 #header .search-btn {
+    display: block;
     float: right;
     cursor: pointer;
     padding: 0 21px;
@@ -159,7 +160,6 @@ button {
 
 #header .menu-icon,
 #header .search-icon {  
-    display:block;
     line-height: 46px;
     color: #fff;
     font-size:20px;
